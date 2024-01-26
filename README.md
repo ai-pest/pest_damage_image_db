@@ -1,75 +1,50 @@
-# 病害虫被害画像データベース
+# Pest and Disease Damage Image Database
 
-## このページについて
+## About the Pest and Disease Damage Image Database
+The [Pest and Disease Damage Image Database](https://habs.rad.naro.go.jp/damage/#!index.md) is a collection of free and open pest damage images collected in the project "Development of pest diagnostic technology using AI" supported the Ministry of Agriculture, Forestry and Fisheries.
 
-このページは、農林水産省戦略的プロジェクト研究推進事業「AI を活用した病害虫診断技術の開発」において収集され、オープンデータとして公開されている「[病害虫被害画像データベース](https://habs.rad.naro.go.jp/damage/#!index.md)」に関するページである。
+## License and Disclaimer
+### License
+This database and the images provided are licensed under the Creative Commons Attribution 4.0 International: https://creativecommons.org/licenses/by/4.0/legalcode.en. For more information about the license, please see the link.
 
-上記ページに含まれる画像に問題がある場合、本レポジトリの [issue](https://github.com/ai-pest/image_db_open/issues) からご報告ください。
+### Disclaimer of Warranties and Limitation of Liability.
+**The provider makes no representations or warranties as to the completeness, accuracy, comprehensiveness, safety, or fitness for any particular purpose of the content. The provider is not liable for any damages, losses, costs, or expenses, whether direct, indirect, incidental, consequential, punitive, or otherwise, arising from the use of this content, including any actions taken or decisions made by the user based on the content.**
 
-## 病害虫被害画像データベースのライセンスおよび免責事項
+The following is a quote from [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode.en), **Section 5 – Disclaimer of Warranties and Limitation of Liability.**.
 
-本データベースおよび提供される画像は、[クリエイティブコモンズ　表示 4.0 国際](https://creativecommons.org/licenses/by/4.0/legalcode.ja)で提供されます。ライセンスの詳細については、リンク先をご確認下さい。
+>**a.Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**  
+> 
+>**b.To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**  
+> 
+>c.The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
-### 無保証および責任制限
+The database was built with the utmost care, but errors may still exist. If you find any problems, please report them to the following github issue.
 
-**本コンテンツの内容の完全性、正確性、網羅性、安全性、特定の目的への適合性等について、提供者はいかなる保証を行うものではありません。また、本コンテンツを用いて行う一切の行為（それらを編集・加工等した情報の利用を含む。）、データを利用できなかったこと、並びに提供しているデータに基づいた利用者の判断及び起こした行動により、いかなる結果が発生した場合においても、提供者は何ら責任を負うものではありません。**
+https://github.com/ai-pest/image_db_open
 
-以下に、[クリエイティブコモンズ　表示 4.0 国際](https://creativecommons.org/licenses/by/4.0/legalcode.ja)の**第 5 条　無保証および責任制限**について、以下に引用します。
+## Overview
+An overview of the Pest and Disease Damage Image Database is follows.
 
-> a.許諾者が別途合意しない限り、許諾者は可能な範囲において、ライセンス対
-> 　象物を現状有姿のまま、現在可能な限りで提供し、明示、黙示、法令上、そ
-> 　の他に関わらずライセンス対象物について一切の表明または保証をしません。
-> 　これには、権利の帰属、商品性、特定の利用目的への適合性、権利侵害の不
-> 　存在、隠れた瑕疵その他の瑕疵の不存在、正確性または誤りの存在もしくは
-> 　不存在を含みますが、これに限られず、既知であるか否か、発見可能である
-> 　か否かを問いません。全部または一部の無保証が認められない場合、この無
-> 　保証はあなたには適用されないこともあります。
->
-> b.可能な範囲において、本パブリック・ライセンスもしくはライセンス対象物
-> 　の利用によって起きうる直接、特別、間接、偶発、結果的、懲罰的その他の
-> 　損失、コスト、出費または損害について、例え損失、コスト、出費、損害の
-> 　可能性について許諾者が知らされていたとしても、許諾者は、あなたに対し、
-> 　いかなる法理（過失を含みますがこれに限られません）その他に基づいても
-> 　責任を負いません。全部または一部の責任制限が認められない場合、この制
-> 　限はあなたには適用されないこともあります。
->
-> c.上記の無保証および責任制限は、可能な範囲において、全責任の完全な免責
-> 　および免除に最も近いものとして解釈するものとします。
+### Image Photgraphed Method
+In capturing the images, we have isolated and identified the pests and diseases, and conducted inoculation tests. For the individuals affected, we attempt to capture images over time, from the early to the late stages of the disease or pest damage.
 
-データベースの構築にあたっては、可能な限りの注意を払っておりますが、誤りが含まれる場合もあります。問題を発見した際には、以下のメールアドレスまでご報告頂ければ幸いです。
+### Target Crops and Testing Institutions
+We are collecting damage images for the following four crops. The copyright for each damage image is held by the testing institutions and is provided under [the Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/legalcode.en)
 
-ai_pest_contact@ml.affrc.go.jp
+1. Tomato
+ - 画像撮影機関：農研機構野菜花き研究部門、岩手県農業研究センター、茨城県農業総合センター、新潟県農業総合研究所、岐阜県農業技術センター、広島県立総合技術研究所農業技術センター、農研機構九州沖縄農業研究センター
+2. Strawbery
+ - 画像撮影機関：農研機構野菜花き研究部門、宮城県農業・園芸総合研究所、栃木県農業試験場、静岡県農林技術研究所、兵庫県立農林水産技術総合センター、香川県農業試験場、長崎県農林技術開発センター
+3. Cucumber
+ - 画像撮影機関：農研機構中央農業研究センター、福島県農業総合センター、埼玉県農業技術研究センター、長野県野菜花き試験場、愛知県農業総合試験場、高知県農業技術センター、宮崎県総合農業試験場
+4. Eggplant
+ - 画像撮影機関：農研機構中央農業研究センター、群馬県農業技術センター、富山県農林水産総合技術センター、山梨県総合農業技術センター、三重県、京都府農林水産技術センター、鹿児島県農業開発総合センター
 
-## データベース概要
+### Target pests and diseases, and parts of the crop
+The pests and diseases to be photographed, as well as the parts of the crop to be photographed, vary depending on the type of crop.”
 
-公開している被害画像データベースの概要は以下の通りです。
-
-### 画像の撮影方法
-
-画像の撮影にあたっては、病害虫を単離・同定し、接種試験を行っています。罹患した個体について、病害または虫害の初期から後期に至るまで、時系列での画像撮影を試みています。
-
-### 対象作物および試験実施機関
-
-以下の 4 つの作物について、被害画像の収集を行っています。各被害画像の著作権については試験実施機関が有し、[クリエイティブコモンズ　表示 4.0 国際](https://creativecommons.org/licenses/by/4.0/legalcode.ja)で提供されます。
-
-1. トマト
-
-- 画像撮影機関：農研機構野菜花き研究部門、岩手県農業研究センター、茨城県農業総合センター、新潟県農業総合研究所、岐阜県農業技術センター、広島県立総合技術研究所農業技術センター、農研機構九州沖縄農業研究センター
-
-2. イチゴ
-
-- 画像撮影機関：農研機構野菜花き研究部門、宮城県農業・園芸総合研究所、栃木県農業試験場、静岡県農林技術研究所、兵庫県立農林水産技術総合センター、香川県農業試験場、長崎県農林技術開発センター
-
-3. キュウリ
-
-- 画像撮影機関：農研機構中央農業研究センター、福島県農業総合センター、埼玉県農業技術研究センター、長野県野菜花き試験場、愛知県農業総合試験場、高知県農業技術センター、宮崎県総合農業試験場
-
-4. ナス
-
-- 画像撮影機関：農研機構中央農業研究センター、群馬県農業技術センター、富山県農林水産総合技術センター、山梨県総合農業技術センター、三重県、京都府農林水産技術センター、鹿児島県農業開発総合センター
-
-### データベースの構造
-
-- 本データベースは静的 HTML として構築しています。
-- 各作物ごとに、「対象作物」→「撮影対象部位」→「撮影対象病害虫」の構造となっています。
-- ファイル名について
+### Stracture of database
+- This database is constructed as static HTML.
+    - The structure is organized as "Target Crop" → "Part to be Photographed" → "Pests and Diseases to be Photographed" for each crop.
+- Structure of file name
+    - The file names are in the format "036512_20181205100511_01.JPG". In this format, the first two digits represent the code for the testing institution, followed by a four-digit test ID. The string after the underscore indicates the time the photo was taken, and the last two digits are a serial number assigned when there are multiple photos taken at the same time.
