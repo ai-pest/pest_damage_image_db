@@ -1,7 +1,7 @@
 # Pest and Disease Damage Image Database
 
 ## About the Pest and Disease Damage Image Database
-The [Pest and Disease Damage Image Database](https://habs.rad.naro.go.jp/damage/#!index.md) is a collection of free and open pest damage images collected in the project "Development of pest diagnostic technology using AI" supported the Ministry of Agriculture, Forestry and Fisheries.
+The [Pest and Disease Damage Image Database](https://habs-rad-naro-go-jp.translate.goog/damage/image_db/index.html?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp) is a collection of free and open pest damage images collected in the project "Development of pest diagnostic technology using AI" supported the Ministry of Agriculture, Forestry and Fisheries.
 
 ## License and Disclaimer
 ### License
