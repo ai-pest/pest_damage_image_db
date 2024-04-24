@@ -32,13 +32,13 @@ In capturing the images, we have isolated and identified the pests and diseases,
 We are collecting damage images for the following four crops. The copyright for each damage image is held by the testing institutions and is provided under [the Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/legalcode.en)
 
 1. Tomato
- - 画像撮影機関：農研機構野菜花き研究部門、岩手県農業研究センター、茨城県農業総合センター、新潟県農業総合研究所、岐阜県農業技術センター、広島県立総合技術研究所農業技術センター、農研機構九州沖縄農業研究センター
+ - Image Capturing Organization：Image Capturing Organization、Iwate Agricultural Research Center、Ibaraki Agricultural Center、Niigata Agricultural Research Institute、Gifu Prefecture Agricultural Technology Center、Hiroshima Prefectural Technology Research Institute Agriculture Research Center、Kyushu Okinawa Agricultural Research Center, NARO
 2. Strawbery
- - 画像撮影機関：農研機構野菜花き研究部門、宮城県農業・園芸総合研究所、栃木県農業試験場、静岡県農林技術研究所、兵庫県立農林水産技術総合センター、香川県農業試験場、長崎県農林技術開発センター
+ - Image Capturing Organization：Image Capturing Organization、Iwate Agricultural Research Center、Miyagi Prefectural Institute of Agriculture and Horticulture、Tochigi Prefecture Agricultural Experiment Station、Shizuoka Prefectural Research Institute of Agriculture and Forestry Research、Hyogo Prefectural Technology Center for Agriculture, Forestry and Fisheries、Kagawa Prefecture Agricultural Experiment Station、 Nagasaki Agricultural and Forestry Technical Development Center.
 3. Cucumber
- - 画像撮影機関：農研機構中央農業研究センター、福島県農業総合センター、埼玉県農業技術研究センター、長野県野菜花き試験場、愛知県農業総合試験場、高知県農業技術センター、宮崎県総合農業試験場
+ - Image Capturing Organization：Central Region Agricultural Research Center, NARO、Fukushima Agricultural Technology Center、Saitama Prefectural Agriculture and Forestry Research Center、Nagano Vegetable and Ornamental Crops Experiment Station、Aichi Agricultural Research Center、Kochi Agricultural Research Center、Miyazaki Agricultural Experiment Station
 4. Eggplant
- - 画像撮影機関：農研機構中央農業研究センター、群馬県農業技術センター、富山県農林水産総合技術センター、山梨県総合農業技術センター、三重県、京都府農林水産技術センター、鹿児島県農業開発総合センター
+ - Image Capturing Organization：Central Region Agricultural Research Center, NARO、Gunma Prefectural Agricultural Technology Center、Toyama Prefectural Agricultural, Forestry ＆ Fisheries Research Center、Yamanashi Prefectural Agricultural Technology Center、Mie Prefecture、Kyoto Prefectural Agriculture, Forestry and Fisheries Technology Center、Kagoshima Prefectural Institute for Agricultural Development
 
 ### Target pests and diseases, and parts of the crop
 The pests and diseases to be photographed, as well as the parts of the crop to be photographed, vary depending on the type of crop.”
